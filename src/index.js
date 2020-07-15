@@ -361,7 +361,6 @@ export default class extends Component {
       },
       // Important Parameter
       // ViewPager 50ms, ScrollView 
-      ms
       scrollView.setPageWithoutAnimation ? 50 : 50
     )
   }
